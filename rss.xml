@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EliteDesign]]></title>
+        <description><![CDATA[EliteDesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 04:57:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gospel In Four Minutes - ]]></title>
+            <description><![CDATA[<article><h1>The Gospel In Four Minutes - </h1><p>Check out these videos:</p></article>]]></description>
+            <link>undefinedthe-gospel-in-four-minutes-/index.html</link>
+            <guid isPermaLink="false">0b79220a-92a9-4da9-a1c2-6dd940d5c865</guid>
+            <pubDate>Sat, 23 Jan 2016 04:57:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
