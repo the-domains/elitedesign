@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EliteDesign]]></title>
         <description><![CDATA[EliteDesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elitedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 04:57:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 05:01:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elitedesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e365dbfe-e693-4943-9dcd-e611c65e4ef1.jpg">]]></description>
+            <link>https://thegrid.ai/elitedesign/695acaa6-824e-4195-8a7a-edfe83172999/index.html</link>
+            <guid isPermaLink="false">695acaa6-824e-4195-8a7a-edfe83172999</guid>
+            <pubDate>Sat, 23 Jan 2016 05:01:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Gospel In Four Minutes - ]]></title>
             <description><![CDATA[<article><h1>The Gospel In Four Minutes - </h1><p>Check out these videos:</p></article>]]></description>
-            <link>undefinedthe-gospel-in-four-minutes-/index.html</link>
+            <link>https://thegrid.ai/elitedesign/the-gospel-in-four-minutes-/index.html</link>
             <guid isPermaLink="false">0b79220a-92a9-4da9-a1c2-6dd940d5c865</guid>
             <pubDate>Sat, 23 Jan 2016 04:57:56 GMT</pubDate>
         </item>
