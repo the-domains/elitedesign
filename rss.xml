@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[EliteDesign]]></title>
-        <description><![CDATA[EliteDesign]]></description>
+        <title><![CDATA[Elite Design Apologetics]]></title>
+        <description><![CDATA[Elite Design Apologetics]]></description>
         <link>https://thegrid.ai/elitedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 05:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 05:58:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elitedesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sat, 23 Jan 2016 05:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The Gospel In Four Minutes - ]]></title>
-            <description><![CDATA[<article><h1>The Gospel In Four Minutes - </h1><p>Check out these videos:</p></article>]]></description>
+            <title><![CDATA[A "Godless" Generation - Jon JorgensonThe Problem With Church - Clayton Jennings]]></title>
+            <description><![CDATA[<article><h1>A "Godless" Generation - Jon JorgensonThe Problem With Church - Clayton Jennings</h1><p>Videos about why Christ's goal was not religion, but so much more:</p></article>]]></description>
             <link>https://thegrid.ai/elitedesign/the-gospel-in-four-minutes-/index.html</link>
             <guid isPermaLink="false">0b79220a-92a9-4da9-a1c2-6dd940d5c865</guid>
-            <pubDate>Sat, 23 Jan 2016 04:57:56 GMT</pubDate>
+            <pubDate>Sat, 23 Jan 2016 05:58:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
