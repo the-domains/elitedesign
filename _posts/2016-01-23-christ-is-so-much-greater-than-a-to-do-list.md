@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: These guys unpack why He is greater
-datePublished: '2016-01-23T15:50:08.176Z'
+datePublished: '2016-01-23T15:50:08.205Z'
 dateModified: '2016-01-23T15:49:57.364Z'
 title: Christ is so much greater than a to do list
 author: []
