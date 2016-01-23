@@ -4,8 +4,15 @@
         <description><![CDATA[Elite Design Apologetics]]></description>
         <link>https://thegrid.ai/elitedesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 15:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 15:53:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/elitedesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Christian Apologetics</p>]]></description>
+            <link>https://thegrid.ai/elitedesign/695acaa6-824e-4195-8a7a-edfe83172999/index.html</link>
+            <guid isPermaLink="false">695acaa6-824e-4195-8a7a-edfe83172999</guid>
+            <pubDate>Sat, 23 Jan 2016 15:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Christ is so much greater than a to do list]]></title>
             <description><![CDATA[<article><h1>Christ is so much greater than a to do list</h1><p>Videos about why Christ's goal was not religion, but so much
@@ -13,13 +20,6 @@ more:</p></article>]]></description>
             <link>https://thegrid.ai/elitedesign/christ-is-so-much-greater-than-a-to-do-list/index.html</link>
             <guid isPermaLink="false">c28ca4e5-52a5-41f5-a0ee-b4f5762c5989</guid>
             <pubDate>Sat, 23 Jan 2016 15:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Christian Apologetics</p>]]></description>
-            <link>https://thegrid.ai/elitedesign/695acaa6-824e-4195-8a7a-edfe83172999/index.html</link>
-            <guid isPermaLink="false">695acaa6-824e-4195-8a7a-edfe83172999</guid>
-            <pubDate>Sat, 23 Jan 2016 15:52:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
