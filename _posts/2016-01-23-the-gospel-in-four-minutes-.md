@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: These guys unpack why He is greater
-datePublished: '2016-01-23T05:59:26.782Z'
+datePublished: '2016-01-23T05:59:26.778Z'
 dateModified: '2016-01-23T05:59:21.346Z'
 title: "A \"Godless\" Generation - Jon JorgensonThe Problem With Church\_- Clayton Jennings"
 author: []
